@@ -16,7 +16,7 @@ https://github.com/itspriyambhattacharya/ml_classification_buys_computer
 # App
 
 App Link:
-https://github.com/itspriyambhattacharya/ml_classification_buys_computer
+https://buyscomputer.streamlit.app/
 
 ---
 
